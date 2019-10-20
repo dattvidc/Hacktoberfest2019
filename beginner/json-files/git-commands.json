@@ -333,5 +333,10 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+
+  {
+    "title": "git config --global alias.shorty 'status --short --branch'",
+    "description": "makes new alias for a short version of git status. in this case named Shorty "
   }
 ]
